@@ -1,0 +1,40 @@
+/*
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+*/
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    margin: 0px 70px 0px 40px;
+    padding: 0px 70px 0px 40px;
+    
+}
+
+header{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header p{
+    margin: 0px 100px 50px 100px;
+}
+
+.bold-line{
+    padding: 1px;
+    background-color: black;
+    margin:0px 0px 0px 0px;
+
+}
+
+.description{
+    line-height: 30px;
+}
+
+span{
+    float: right;
+}
